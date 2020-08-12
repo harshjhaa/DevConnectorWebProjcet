@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://jha:jha@cluster-demo-1-agxfu.mongodb.net/dev-connector?retryWrites=true&w=majority",
+    "jwtSecret": "harshjhaa"
+}
