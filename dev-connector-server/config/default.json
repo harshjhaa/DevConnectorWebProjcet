@@ -1,6 +1,6 @@
 {
     "mongoURI": "mongodb+srv://jha:jha@cluster-demo-1-agxfu.mongodb.net/dev-connector?retryWrites=true&w=majority",
     "jwtSecret": "harshjhaa",
-    "githubClientId": "Iv1.57628d3f06f29ec2",
-    "githubSecret": "8a2d57c64c165928e7aa98152e50204a26fc2c26"
+    "githubClientId": "githubClientId",
+    "githubSecret": "githubSecret"
 }
